@@ -1,5 +1,5 @@
 # UK Traffic Accident Analysis and Visualization
-<img align="center" height="244" src="https://www.shareicon.net/data/128x128/2015/12/27/693941_transport_512x512.png">
+<img align="right" height="244" src="https://www.shareicon.net/data/128x128/2015/12/27/693941_transport_512x512.png">
 
 ## Project description
 In this project, we set out to solve the problem of Road Traffic Accident (RTA) in London, United Kingdom by providing a tool to predict RTA risk so that users can make informed decision about their traveling route. We also did a detailed analysis of past data and visuals to gain a better understanding of RTA.
