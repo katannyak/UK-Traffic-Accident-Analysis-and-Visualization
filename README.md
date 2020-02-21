@@ -1,4 +1,5 @@
-# UK Traffic Accident Analysis and Visualization<span style="color:blue">some </span>
+# 
+<span style="color:blue">UK Traffic Accident Analysis and Visualization</span>
 <img align="right" height="244" src="https://www.shareicon.net/data/128x128/2015/12/27/693941_transport_512x512.png">
 
 ## Project description
