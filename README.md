@@ -12,7 +12,7 @@ Our [online tool](https://kteo7.pythonanywhere.com/interaction) provides an inte
 
 Our website also describes our [exploratory analysis and visualization](https://kteo7.pythonanywhere.com/exploration) of the data, including our methodology, description of algorithms developed, analysis and visualization of the data. For example, the choropleth map below shows which London boroughs have the highest (Westminster, dark purple) to lowest (Kingston Upon Thames, light blue) rate of traffic accidents. 
 
-<img align="center" height="500" src="https://github.com/katannyak/UK-Traffic-Accident-Analysis-and-Visualization/blob/master/data_viz/choropleth_screenshot.png">
+<img align="center" height="600" src="https://github.com/katannyak/UK-Traffic-Accident-Analysis-and-Visualization/blob/master/data_viz/choropleth_screenshot.png">
 
 A nice description of this project was written by my colleauge Meraldo Antonio in this [article](https://towardsdatascience.com/live-prediction-of-traffic-accident-risks-using-machine-learning-and-google-maps-d2eeffb9389e).
 
