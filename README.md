@@ -8,11 +8,11 @@ As a part of a [Data and Visual Analytics](https://poloclub.github.io/cse6242-20
 
 Our [online tool](https://kteo7.pythonanywhere.com/interaction) provides an interactive dashboard that allows users to enter their start and end locations in London and date and time of travel. The app will then call [Google maps API](https://cloud.google.com/maps-platform/) for route planning and a weather API, [Darksky](https://darksky.net/dev), for weather forecast data. These data will then be fed into our traffic accident prediction model and locations with high accident risk will be displayed on the map as hazard icons. The app uses machine learning models for predictions. The web application was built using Python Flask framework. As an example, the screenshot below shows three particularly bad hotsopts for potential traffic accidents enroute from the zoo to the Royal Observatory on a Friday afternoon.
 
-<img align="center" height="400" src="https://github.com/katannyak/UK-Traffic-Accident-Analysis-and-Visualization/blob/master/data_viz/interactive_tool_screenshot.png">
+<img align="center" height="500" src="https://github.com/katannyak/UK-Traffic-Accident-Analysis-and-Visualization/blob/master/data_viz/interactive_tool_screenshot.png">
 
 Our website also describes our [exploratory analysis and visualization](https://kteo7.pythonanywhere.com/exploration) of the data, including our methodology, description of algorithms developed, analysis and visualization of the data. For example, the choropleth map below shows which London boroughs have the highest (Westminster, dark purple) to lowest (Kingston Upon Thames, light blue) rate of traffic accidents. 
 
-<img align="center" height="244" src="https://github.com/katannyak/UK-Traffic-Accident-Analysis-and-Visualization/blob/master/data_viz/choropleth_screenshot.png">
+<img align="center" height="500" src="https://github.com/katannyak/UK-Traffic-Accident-Analysis-and-Visualization/blob/master/data_viz/choropleth_screenshot.png">
 
 A nice description of this project was written by my colleauge Meraldo Antonio in this [article](https://towardsdatascience.com/live-prediction-of-traffic-accident-risks-using-machine-learning-and-google-maps-d2eeffb9389e) written by my colleauge Meraldo Antonio.
 
