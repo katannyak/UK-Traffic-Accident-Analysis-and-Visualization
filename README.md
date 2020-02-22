@@ -29,7 +29,7 @@ Data used in this project was obtained from [Kaggle](https://www.kaggle.com/dave
 
 
 ## Directories
-#### `docs`
+#### [`docs`](https://github.com/katannyak/UK-Traffic-Accident-Analysis-and-Visualization/tree/master/docs)
 Contains our final report, a nice infographic for this project, and links to data sources.
 
 #### `code`
