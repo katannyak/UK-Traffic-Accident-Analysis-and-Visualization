@@ -22,7 +22,7 @@ A nice description of this project was written by my colleauge Meraldo Antonio i
 Contains our final report, a nice infographic for this project, and links to data sources.
 
 #### [`code`](https://github.com/katannyak/UK-Traffic-Accident-Analysis-and-Visualization/tree/master/code)
-Python code and data sets, e.g. traffic accident, atmospheric pollution, weather forcaste, and policitical sentiment data, used to create the regression model to predict traffic accident probabilities.
+Python code and data sets, e.g. traffic accident, atmospheric pollution, weather forcaste, and policitical sentiment data, used to create the model to predict traffic accident probabilities.
 
 #### [`data_viz`](https://github.com/katannyak/UK-Traffic-Accident-Analysis-and-Visualization/tree/master/data_viz)
 Python code for our data visualization analysis of UK traffic accidents.
