@@ -14,7 +14,7 @@ Our website also describes our [exploratory analysis and visualization](https://
 
 <img align="center" height="500" src="https://github.com/katannyak/UK-Traffic-Accident-Analysis-and-Visualization/blob/master/data_viz/choropleth_screenshot.png">
 
-A nice description of this project was written by my colleauge Meraldo Antonio in this [article](https://towardsdatascience.com/live-prediction-of-traffic-accident-risks-using-machine-learning-and-google-maps-d2eeffb9389e) written by my colleauge Meraldo Antonio.
+A nice description of this project was written by my colleauge Meraldo Antonio in this [article](https://towardsdatascience.com/live-prediction-of-traffic-accident-risks-using-machine-learning-and-google-maps-d2eeffb9389e).
 
 
 ## Directories
