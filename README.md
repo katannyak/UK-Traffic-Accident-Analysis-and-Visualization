@@ -2,9 +2,9 @@
 <img align="right" height="200" src="https://www.shareicon.net/data/128x128/2015/12/27/693941_transport_512x512.png">
 
 ## Project description
-As a part of a [Data and Visual Analytics](https://poloclub.github.io/cse6242-2019fall-online/) course, the goal of this group project was to extract novel insights and create useful applications from a large dataset. To this end, we analyzed the [UK Road Traffic Accident](https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales/version/8) data set, UK air pollution data, and weather forecast information, and:
-  * created an online tool to predict traffic accident risk so that users can make informed decision about their traveling route and,
-  * conducted detailed analysis of the data and create visuals to communicate our findings to the public.
+As a part of a [Data and Visual Analytics](https://poloclub.github.io/cse6242-2019fall-online/) course, the goal of this group project was to extract novel insights and create useful applications from a large dataset. To this end, we analyzed the [UK Road Traffic Accident](https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales/version/8) data set, UK air pollution data, and weather forecast information, to:
+  * create an online tool to predict traffic accident risk so that users can make informed decision about their traveling route and,
+  * conduct detailed analysis of the data and create visuals to communicate our findings to the public.
 
 Our [online tool](https://kteo7.pythonanywhere.com/interaction) provides an interactive dashboard that allows a user to enter their start and end locations in London and date and time of travel. The app will then call [Google maps API](https://cloud.google.com/maps-platform/) for route planning and a weather API, [Darksky](https://darksky.net/dev) for weather forecasts. These data will then be fed into our traffic accident prediction model and locations with high accident risk will be displayed on the map as hazard icons. The app uses machine learning models for predictions. The web application was built using Python Flask framework. As an example, the screenshot below shows three particularly bad hotsopts for potential traffic accidents enroute from the zoo to the Royal Observatory on a Friday afternoon.
 
