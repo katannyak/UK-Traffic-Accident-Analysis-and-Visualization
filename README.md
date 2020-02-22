@@ -10,7 +10,7 @@ Our [online tool](https://kteo7.pythonanywhere.com/interaction) provides an inte
 
 <img align="center" height="500" src="https://github.com/katannyak/UK-Traffic-Accident-Analysis-and-Visualization/blob/master/data_viz/interactive_tool_screenshot.png">
 
-Our website also describes our [exploratory analysis and visualization](https://kteo7.pythonanywhere.com/exploration) of the data, including our methodology, description of algorithms developed, analysis and visualization of the data. For example, the choropleth map below shows which London boroughs have the highest (Westminster, dark purple) to lowest (Kingston Upon Thames, light blue) rate of traffic accidents. 
+The website also describes our [exploratory analysis and visualization](https://kteo7.pythonanywhere.com/exploration) of the data, including our methodology, description of algorithms developed, analysis and visualization of the data. For example, the choropleth map below shows which London boroughs have the highest (Westminster, dark purple) to lowest (Kingston Upon Thames, light blue) rate of traffic accidents. 
 
 <img align="center" height="550" src="https://github.com/katannyak/UK-Traffic-Accident-Analysis-and-Visualization/blob/master/data_viz/choropleth_screenshot.png">
 
