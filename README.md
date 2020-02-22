@@ -2,7 +2,11 @@
 <img align="right" height="200" src="https://www.shareicon.net/data/128x128/2015/12/27/693941_transport_512x512.png">
 
 ## Project description
-In this project, we set out to solve the problem of Road Traffic Accidents in London, United Kingdom by providing a tool to predict traffic accident risk so that users can make informed decision about their traveling route. We also conducted detailed analysis of past data and visuals to gain a better understanding of traffic accidents.
+As apart of a [Data and Visual Analytics](https://poloclub.github.io/cse6242-2019fall-online/) course, the goal of this group project was to extract novel insights and create useful applications from a large dataset. To this end, we analyzed the [UK Road Traffic Accident](https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales/version/8) data set, UK air pollution data, and weather forecast information, to:
+  * create an online tool to predict traffic accident risk so that users can make informed decision about their traveling route and,
+  * conducted detailed analysis of past data and create visuals to communicate our findings to the public.
+
+
 
 Our web interface contains two parts, namely exploration and interaction. In the exploration part, we presents our research methodology, algorithm used, analysis and visualization of the data. In the interaction part, user can make use of an interactive dashboard to predict the probability of RTA in their chosen routes.
 
