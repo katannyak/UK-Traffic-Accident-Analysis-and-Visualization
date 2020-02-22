@@ -2,34 +2,20 @@
 <img align="right" height="200" src="https://www.shareicon.net/data/128x128/2015/12/27/693941_transport_512x512.png">
 
 ## Project description
-As apart of a [Data and Visual Analytics](https://poloclub.github.io/cse6242-2019fall-online/) course, the goal of this group project was to extract novel insights and create useful applications from a large dataset. To this end, we analyzed the [UK Road Traffic Accident](https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales/version/8) data set, UK air pollution data, and weather forecast information, to:
-  * create an online tool to predict traffic accident risk so that users can make informed decision about their traveling route and,
-  * conducted detailed analysis of past data and create visuals to communicate our findings to the public.
+As a part of a [Data and Visual Analytics](https://poloclub.github.io/cse6242-2019fall-online/) course, the goal of this group project was to extract novel insights and create useful applications from a large dataset. To this end, we analyzed the [UK Road Traffic Accident](https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales/version/8) data set, UK air pollution data, and weather forecast information, and:
+  * created an online tool to predict traffic accident risk so that users can make informed decision about their traveling route and,
+  * conducted detailed analysis of the data and create visuals to communicate our findings to the public.
 
+Our [online tool](https://kteo7.pythonanywhere.com/interaction) provides an interactive dashboard that allows a user to enter their start and end locations in London and date and time of travel. The app will then call [Google maps API](https://cloud.google.com/maps-platform/) for route planning and a weather API, [Darksky](https://darksky.net/dev) for weather forecasts. These data will then be fed into our traffic accident prediction model and locations with high accident risk will be displayed on the map as hazard icons. The app uses machine learning models for predictions. The web application was built using Python Flask framework. As an example, the screenshot below shows three particularly bad hotsopts for potential traffic accidents enroute from the zoo to the Royal Observatory on a Friday afternoon.
 
+<img align="center" height="400" src="https://github.com/katannyak/UK-Traffic-Accident-Analysis-and-Visualization/blob/master/data_viz/interactive_tool_screenshot.png
+">
 
-Our web interface contains two parts, namely exploration and interaction. In the exploration part, we presents our research methodology, algorithm used, analysis and visualization of the data. In the interaction part, user can make use of an interactive dashboard to predict the probability of RTA in their chosen routes.
+Our website also describes our [exploratory analysis and visualization](https://kteo7.pythonanywhere.com/exploration) of the data, including our methodology, decription of algorithms developed, analysis and visualization of the data. For example, the choropleth map below shows which London boroughs have the highest (Westminster, dark purple) to lowest (Kingston Upon Thames, light blue) rate of traffic accidents. 
 
-The app uses machine learning models for predictions. User will have to enter a date and time, an origin and travel destination. The app will then call [Google maps API](https://cloud.google.com/maps-platform/) for route planning and a weather API, [Darksky](https://darksky.net/dev)
-for weather forecasts. These data will then be fed into the model and probability of RTA occurring in user's route will be displayed on the map as hazard icons.
+<img align="center" height="244" src="https://github.com/katannyak/UK-Traffic-Accident-Analysis-and-Visualization/blob/master/data_viz/chloroplast_screenshot.png">
 
-The web application is built using Python Flask framework and is currently being hosted in Pythonanywhere, [here](http://kteo7.pythonanywhere.com/home).
-
-### Data Visualization
-<img align="right" height="244" src="https://github.com/katannyak/UK-Traffic-Accident-Analysis-and-Visualization/blob/master/data_viz/heatmap_day_vs_hour.png">
-
-
-A nice description of this project is provided in this [article](https://towardsdatascience.com/live-prediction-of-traffic-accident-risks-using-machine-learning-and-google-maps-d2eeffb9389e) written by colleauge Meraldo Antonio.
-
-Data used in this project was obtained from [Kaggle](https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales/version/8)
-
-
-
-
-
-
-
-
+A nice description of this project is provided in this [article](https://towardsdatascience.com/live-prediction-of-traffic-accident-risks-using-machine-learning-and-google-maps-d2eeffb9389e) written by my colleauge Meraldo Antonio.
 
 
 ## Directories
